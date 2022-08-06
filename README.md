@@ -1,0 +1,2 @@
+# SM_Tourism
+An aviation company that provides domestic and international trips to customers now wants to apply a targeted approach instead of approaching each of the customers. This time they want to do it digitally instead of tele-calling. Hence they have collaborated with a social networking platform, so they can learn the digital and social behavior of the customers and provide the digital advertisement on the user page of the targeted customers who have a high propensity to take up the product.
